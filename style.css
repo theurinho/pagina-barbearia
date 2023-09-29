@@ -7,6 +7,6 @@ background: hsl(66, 85%, 44%);
 p {
       text-aling: center;
  }
- strong{ 
-     color: red(26, 23, 23)
+ em strong{ 
+     color: #ff0000;
  }
