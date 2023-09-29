@@ -4,8 +4,9 @@ background: hsl(0, 80%, 60%);
 
 }
 
-
-
 p {
       text-aling: center;
+ }
+ strong{ 
+     color: red
  }
