@@ -1,6 +1,6 @@
 body {
 
-background: hsl(0, 80%, 60%);
+background: hsl(0, 2%, 24%);
 
 }
 
@@ -8,5 +8,5 @@ p {
       text-aling: center;
  }
  strong{ 
-     color: red
+     color: whate(26, 23, 23)
  }
